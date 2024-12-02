@@ -6,5 +6,6 @@
 </head>
 <body>
 <h1>欢迎,${smbmsUser.userName},${id}</h1>
+<h2>初始版本</h2>
 </body>
 </html>
